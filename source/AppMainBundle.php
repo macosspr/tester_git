@@ -16,5 +16,9 @@ class AppMainBundle extends Bundle
     {
         return 'FOSUserBundle222 from first and snd 2 2';
     }
+    public function getParentTicket()
+    {
+        return 'From Ticket3';
+    }
         
 }
