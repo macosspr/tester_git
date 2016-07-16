@@ -34,7 +34,7 @@ class RoutingControllerLoader implements LoaderInterface
         
         
         if(true) {
-          echo 'only-test';  
+          echo 'only-test222';  
         }
         
         echo 'tttt';
