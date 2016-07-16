@@ -9,7 +9,7 @@ class AppMainBundle extends Bundle
     
     public function getParent()
     {
-        return 'FOSUserBundleAla';
+        return 'FOSUserBundleAlaOh wchapaniel';
     }
     
     public function getParent2()
