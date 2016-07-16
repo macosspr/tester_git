@@ -37,6 +37,8 @@ class RoutingControllerLoader implements LoaderInterface
           echo 'only-test';  
         }
         
+        echo 'tttt';
+        
         $collection = new RouteCollection();
         //$bIsGlobalModule = $this->container->get('my_helper')->getCurrentSubdomain() == '';
         
