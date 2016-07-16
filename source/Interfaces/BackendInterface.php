@@ -8,7 +8,7 @@ interface BackendInterface
     }
     
     public function tester2() {
-        $i = -10;
+        $i = -12;
         while($i < 0) {
             $i++;
         }
