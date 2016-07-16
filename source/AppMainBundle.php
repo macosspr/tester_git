@@ -9,7 +9,7 @@ class AppMainBundle extends Bundle
     
     public function getParent()
     {
-        return 'FOSUserBundleAlaOh wchapanieldad';
+        return 'FOSUserBundleAlaOh wchapanieldad FOSUserBundleAla';
     }
     
     public function getParent2()
@@ -19,6 +19,10 @@ class AppMainBundle extends Bundle
     public function getParent3()
     {
         return 'New functionality';
+    }
+    public function getParentTicket()
+    {
+        return 'From Ticket3333';
     }
         
 }
