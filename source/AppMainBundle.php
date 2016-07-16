@@ -11,5 +11,10 @@ class AppMainBundle extends Bundle
     {
         return 'FOSUserBundle';
     }
+    
+    public function getParent2()
+    {
+        return 'FOSUserBundle';
+    }
         
 }
