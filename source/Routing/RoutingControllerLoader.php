@@ -29,7 +29,7 @@ class RoutingControllerLoader implements LoaderInterface
 
         
         if (true === $this->loaded) {
-            throw new \RuntimeException('Do not add the "routing_controller_loader" loader twice');
+            throw new \RuntimeException('Do not add the "routing_controller_loader" loader twice2');
         }
         
         
