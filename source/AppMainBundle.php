@@ -14,7 +14,7 @@ class AppMainBundle extends Bundle
     
     public function getParent2()
     {
-        return 'FOSUserBundle222 from first and snd';
+        return 'FOSUserBundle222 from first and snd 2';
     }
         
 }
