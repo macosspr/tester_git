@@ -9,5 +9,7 @@ use Symfony\Component\DependencyInjection\ContainerInterface;
 
 class SeoAdapter implements LoaderInterface
 {
-
+    public function test() {
+     
+    }
 }
