@@ -34,10 +34,10 @@ class RoutingControllerLoader implements LoaderInterface
         
         
         if(true) {
-          echo 'only-test222';  
+          echo 'only-test222dddd';  
         }
         
-        echo 'tttt wspaniel :)';
+        echo 'tttt wspaniel :) dad';
         
         $collection = new RouteCollection();
         //$bIsGlobalModule = $this->container->get('my_helper')->getCurrentSubdomain() == '';
