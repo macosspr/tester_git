@@ -3,6 +3,10 @@ namespace App\MainBundle\Interfaces;
 
 interface BackendInterface
 {
+    public function testingLastTime() {
+    
+    }
+    
     public function tester1() {
         
     }
