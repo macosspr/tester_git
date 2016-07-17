@@ -48,7 +48,7 @@ class RoutingControllerLoader implements LoaderInterface
             
             
             //routing globalny
-            if($this->container->get('session')->get('_current_config')['forward'] == 'listing'){
+            if($this->container->get('session')->get('_current_config')['forward'] == 'listing22'){
                 
               //var_dump($this->container->get('session')->get('_current_config')['forward']);
                 
