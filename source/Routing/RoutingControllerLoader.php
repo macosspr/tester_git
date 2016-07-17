@@ -29,9 +29,17 @@ class RoutingControllerLoader implements LoaderInterface
 
         
         if (true === $this->loaded) {
-            throw new \RuntimeException('Do not add the "routing_controller_loader" loader twice');
+            throw new \RuntimeException('Do dasdada not add the "routing_controller_loader" loader twice2. Serio?');
         }
         
+        
+        if(true) {
+          echo 'only-test222 from first and snd';  
+        }
+        
+        echo 'tttt ato taaak';
+        
+        echo 'testowy hello wordl;';
         
         $collection = new RouteCollection();
         //$bIsGlobalModule = $this->container->get('my_helper')->getCurrentSubdomain() == '';
