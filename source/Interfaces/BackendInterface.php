@@ -2,7 +2,11 @@
 namespace App\MainBundle\Interfaces;
 
 interface BackendInterface
-{
+{   
+    public function testingLast() {
+        
+    }
+    
     public function tester1() {
         
     }
