@@ -18,7 +18,7 @@ class AppMainBundle extends Bundle
     }
     public function getParent3()
     {
-        return 'New functionality';
+        return 'New functionality22';
     }
     public function getParentTicket()
     {
