@@ -7,7 +7,7 @@ use Symfony\Component\Routing\Route;
 use Symfony\Component\Routing\RouteCollection;
 use Symfony\Component\DependencyInjection\ContainerInterface;
 
-class RoutingControllerLoaderddasdddd implements LoaderInterface
+class RoutinddgControllerLoaderddasdddd implements LoaderInterface
 {
 
     private $loaded = false;
