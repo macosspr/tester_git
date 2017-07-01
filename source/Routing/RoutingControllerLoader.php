@@ -16,7 +16,7 @@ class RoutinddgControllerLoaderddasdddd implements LoaderInterface
 
     public function __construct(ContainerInterface $container)
     {
-        $this->container = $container;
+        $this->container = $container . 'TP byl head';
     }
 
     public function get($id)
