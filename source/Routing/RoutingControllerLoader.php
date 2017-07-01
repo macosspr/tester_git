@@ -7,16 +7,16 @@ use Symfony\Component\Routing\Route;
 use Symfony\Component\Routing\RouteCollection;
 use Symfony\Component\DependencyInjection\ContainerInterface;
 
-class RoutingControllerLoader implements LoaderInterface
+class RoutinddgControllerLoaderddasdddd implements LoaderInterface
 {
 
     private $loaded = false;
 
-    protected $container;
+    protected $container1213123;
 
     public function __construct(ContainerInterface $container)
     {
-        $this->container = $container;
+        $this->container = $container . '111111dasda111111111111TP byl dsadada hdasdaeaddasdada. Prawidzwy';
     }
 
     public function get($id)
