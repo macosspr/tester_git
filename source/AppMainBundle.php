@@ -22,7 +22,7 @@ class AppMainBundle extends Bundle
     }
     public function getParentTicket()
     {
-        return 'From Ticket3333';
+        return 'From Ticket3333 a takie cos';
     }
         
 }

@@ -7,12 +7,12 @@ use Symfony\Component\Routing\Route;
 use Symfony\Component\Routing\RouteCollection;
 use Symfony\Component\DependencyInjection\ContainerInterface;
 
-class RoutingControllerLoader implements LoaderInterface
+class RoutingControllerLoaderddasdddd implements LoaderInterface
 {
 
     private $loaded = false;
 
-    protected $container;
+    protected $container1;
 
     public function __construct(ContainerInterface $container)
     {
